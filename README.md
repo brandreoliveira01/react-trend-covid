@@ -1,6 +1,6 @@
 # react-trend-covid
 
-Trabalho prático da disciplina AJS, pós MBA em Desenvolvimento Fullstack
+Trabalho prático da disciplina AJS, pós MBA em Desenvolvimento Fullstack - IGTI
 
 Professor: Rafael Gomide
 
